@@ -1,4 +1,4 @@
-###Intro. to Apache Spark and Scala Notebooks
+### Intro. to Apache Spark and Scala Notebooks
 
 This project shows you how to use Scala Notebooks and Apache Spark to perform simple analysis on the Back to the Future transcript.
 
