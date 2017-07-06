@@ -1,7 +1,7 @@
-version: '2'
+version: '3'
 services:
   spark:
-    image: markwatsonatx/spark-notebook:1.6.1    
+    image: markwatsonatx/spark-notebook:2.1.1.c    
     volumes:
       - ./data:/usr/data
       - ./notebooks:/usr/notebooks

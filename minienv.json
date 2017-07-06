@@ -1,0 +1,23 @@
+{
+  "editor" : {
+    "hide": false 
+  },
+  "proxy": {
+    "ports": [
+      {
+        "port": 38889,
+        "hide": false,
+        "tabs" : [
+          {
+            "name": "Python",
+            "path": "/notebooks/WordCountPython.ipynb"
+          },
+          {
+            "name": "Scala",
+            "path": "/notebooks/WordCountScala.ipynb"
+          }
+        ]
+      }
+    ]
+  }
+}
